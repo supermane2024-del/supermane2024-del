@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Supermane — Dark Developer Portfolio" width="100%">
+<img src="assets/banner.svg" alt="Mouhamed Tall — Dark Developer Portfolio" width="100%">
 
 <br>
 
-<img src="assets/title.svg" alt="Hi, I'm Supermane" width="720">
+<img src="assets/title.svg" alt="Hi, I'm Mouhamed" width="720">
 
 <br>
 
-**Développeur curieux, attiré par les systèmes, le code bas niveau et les expériences interactives.**
+**Mouhamed Tall | Full Stack Developer**
+
+Développeur curieux, attiré par les systèmes, le code bas niveau et les expériences interactives.<br>
 J'explore, j'apprends et je construis — du C à Flutter, en passant par Rust, Python et Godot.
 
-[![GitHub](https://img.shields.io/badge/GitHub-supermane2024--del-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supermane2024-del)
+[![GitHub](https://img.shields.io/badge/GitHub-Mouhamed-Tall-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supermane2024-del)
 [![Followers](https://img.shields.io/github/followers/supermane2024-del?style=for-the-badge&logo=github&label=followers&color=a855f7)](https://github.com/supermane2024-del?tab=followers)
 [![Stars](https://img.shields.io/github/stars/supermane2024-del?style=for-the-badge&logo=github&label=stars&color=8b5cf6)](https://github.com/supermane2024-del?tab=repositories)
 [![Snake workflow](https://img.shields.io/github/actions/workflow/status/supermane2024-del/supermane2024-del/snake.yml?branch=main&label=snake&logo=github&style=for-the-badge)](https://github.com/supermane2024-del/supermane2024-del/actions/workflows/snake.yml)
@@ -47,13 +49,13 @@ J'explore, j'apprends et je construis — du C à Flutter, en passant par Rust, 
 
 Données publiques, actualisées automatiquement par le service [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-![Statistiques GitHub de supermane2024-del](https://github-readme-stats.vercel.app/api?username=supermane2024-del&show_icons=true&include_private=false&hide_border=true&bg_color=0d0915&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc)
+![Statistiques GitHub de Mouhamed Tall](https://github-readme-stats.vercel.app/api?username=supermane2024-del&show_icons=true&include_private=false&hide_border=true&bg_color=0d0915&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc)
 
 ---
 
 ## 🌐 Langages & outils
 
-<img src="assets/stack.svg" alt="Carte des langages et outils de Supermane" width="100%">
+<img src="assets/stack.svg" alt="Carte des langages et outils de Mouhamed Tall" width="100%">
 
 <details>
 <summary>📈 Voir la carte GitHub dynamique des langages (données publiques)</summary>
@@ -88,6 +90,6 @@ Le serpent traverse la grille de contributions publiques. Le SVG est régénér�
 
 <div align="center">
 
-<sub>Construit avec GitHub Actions, SVG et Markdown · Mise à jour automatique</sub>
+<sub>Mouhamed Tall · Construit avec GitHub Actions, SVG et Markdown · Mise à jour automatique</sub>
 
 </div>
