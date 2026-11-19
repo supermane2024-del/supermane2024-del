@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-label="Langages et outils declares par Supermane">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0915"/>
+      <stop offset="1" stop-color="#09060f"/>
+    </linearGradient>
+    <linearGradient id="cardAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#d8b4fe"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="898.5" height="618.5" rx="14" fill="url(#cardBg)" stroke="#35254b" stroke-width="1.5"/>
+  <rect x="36" y="36" width="52" height="4" rx="2" fill="url(#cardAccent)"/>
+
+  <text x="36" y="78" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="1.5" fill="#ffffff">LANGAGES &amp; OUTILS</text>
+  <text x="36" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b8299">Stack declaree par le proprietaire du profil - non mesuree par GitHub</text>
+  <line x1="36" y1="126" x2="864" y2="126" stroke="#2a1d3a" stroke-width="1"/>
+
+  <text x="36" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">SYSTEMES ET CODE</text>
+  <text x="36" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">C  &#183;  C++  &#183;  Rust  &#183;  Python  &#183;  SQL  &#183;  Bash</text>
+  <line x1="36" y1="204" x2="864" y2="204" stroke="#1d1529" stroke-width="1"/>
+
+  <text x="36" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">WEB ET APPS</text>
+  <text x="36" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">Dart  &#183;  Flutter  &#183;  HTML  &#183;  JavaScript  &#183;  Supabase</text>
+  <line x1="36" y1="280" x2="864" y2="280" stroke="#1d1529" stroke-width="1"/>
+
+  <text x="36" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">SECURITE ET SYSTEMES</text>
+  <text x="36" y="338" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">Reseau  &#183;  Linux Mint / Lubuntu  &#183;  Windows  &#183;  CLI  &#183;  Optimisation OS</text>
+  <line x1="36" y1="356" x2="864" y2="356" stroke="#1d1529" stroke-width="1"/>
+
+  <text x="36" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">GAME DEV ET 3D</text>
+  <text x="36" y="414" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">Godot  &#183;  Unity  &#183;  Blender  &#183;  Krita  &#183;  LibreSprite  &#183;  Tinkercad</text>
+  <line x1="36" y1="432" x2="864" y2="432" stroke="#1d1529" stroke-width="1"/>
+
+  <text x="36" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">HARDWARE ET IA</text>
+  <text x="36" y="490" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">ESP32  &#183;  Arduino  &#183;  Ollama (LLM locaux)</text>
+  <line x1="36" y1="508" x2="864" y2="508" stroke="#1d1529" stroke-width="1"/>
+
+  <text x="36" y="540" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#c084fc">VIDEO ET CREATION</text>
+  <text x="36" y="566" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#eeeaf5">Premiere Pro  &#183;  After Effects  &#183;  DaVinci Resolve  &#183;  CapCut  &#183;  Kdenlive  &#183;  Shotcut</text>
+</svg>
