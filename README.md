@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/title.svg" alt="Hi, I'm Mouhamed" width="720">
+<img src="assets/title.svg" alt="Hi,I'm Mouhamed" width="720">
 
 <br>
 
